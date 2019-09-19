@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Minion
+  - Walkable
+  - Seeker
+  - PlayerWaypoint
+  - TowerBase1
+  - TowerBase2
+  - Target
+  - Minion2
+  - MinionBullet
+  - Target2
+  - MinionBullet2
+  - Base2TowerHead
+  - Base1BotWP1
+  - Base1BotWP2
+  - Base1TopWP1
+  - Base1TopWP2
+  - Base1TopWP3
+  - Base1BotWP3
+  - Base2BotWP1
+  - Base2BotWP2
+  - Base2BotWP3
+  - Base2TopWP1
+  - Base2TopWP2
+  - Base2TopWP3
+  - TurretBullet1
+  - TurretBullet2
+  - Turret_Bullet
+  - SkuttleTopWP1
+  - SkuttleTopWP2
+  - SkuttleBotWP1
+  - SkuttleBotWP2
+  - SkuttleBot
+  - SkuttleTop
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - Unwalkable
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
